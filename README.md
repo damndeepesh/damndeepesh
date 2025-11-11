@@ -5,7 +5,7 @@ Open to opportunities and knowledge sharing.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damndeepesh) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/damndeepesh) 
-[![Portfolio](https://img.shields.io/badge/Website-DeepeshGupta.dev-%23FF5722.svg?style=flat&logo=google-chrome&logoColor=white)]
+[![Portfolio](https://img.shields.io/badge/Website-DeepeshGupta.dev-%23FF5722.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.deepeshgupta.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:hello@deepeshgupta.dev)
 
 # 💻 Tech Stack:
