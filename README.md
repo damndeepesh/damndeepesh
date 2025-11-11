@@ -1,12 +1,12 @@
 # 💫 About Me:
-👋 Hey there! I'm **Deepesh Gupta**, a passionate AI & ML Engineer with hands-on experience in building scalable systems in Machine Learning, Deep Learning, Generative AI, and LLMs 🤖. I love turning complex ideas into smart, working products and diving deep into research-backed solutions.<br>
-Currently open to work — let’s connect and collaborate on next-gen AI solutions! 🚀<br>
-If you have any suggestions or collab ideas, feel free to drop a message 😉.
+Building AI solutions and learning in public. Focused on LLMs, Deep Learning, and production ML systems. 
+Open to opportunities and knowledge sharing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damndeepesh) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/damndeepesh) 
-[![Portfolio](https://img.shields.io/badge/Website-DeepeshGupta.dev-%23FF5722.svg?style=flat&logo=google-chrome&logoColor=white)](mailto:hello@deepeshgupta.dev)
+[![Portfolio](https://img.shields.io/badge/Website-DeepeshGupta.dev-%23FF5722.svg?style=flat&logo=google-chrome&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:hello@deepeshgupta.dev)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
